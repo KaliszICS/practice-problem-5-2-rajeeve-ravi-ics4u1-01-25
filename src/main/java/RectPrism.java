@@ -22,6 +22,10 @@ public class RectPrism extends Rectangle {
 
     public int getSuperLength() {
         return super.length;
+
+
+
+        
     }
 
     public int getThisLength() {
